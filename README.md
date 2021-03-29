@@ -1,7 +1,7 @@
-# dsci551-assignment2
+## dsci551-assignment2
 
-### tasks-code
-/n upload code for each question
+#### tasks-code
+1. upload code for each question
 
-### datasets
-/n upload datasets used
+#### datasets
+2. upload datasets used
