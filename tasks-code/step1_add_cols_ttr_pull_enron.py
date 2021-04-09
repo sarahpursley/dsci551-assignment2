@@ -311,9 +311,14 @@ for email in emails:
 print("Number of replies saved: ", len(replies))
 
 # Save the replies to json format
-with open('replyEmails.json', 'w') as fout:
-    json.dump(replies, fout, indent=4)
-    print("Saved file")
+reply_json = "reply_emails.json"
+
+with open(reply_json, 'w') as f:
+    json.dump(replies, f, indent=2)
+    f.close()
+
+if os.path.exists(reply_json):
+    print(f"Saved {reply_json}")
 
 toc = time.perf_counter()
 print(f"Code successfully compiled in {toc - tic:0.4f} seconds")
