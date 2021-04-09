@@ -9,6 +9,7 @@ Tika Dockers: https://github.com/USCDataScience/tika-dockers
 GPT-2-simple: https://github.com/minimaxir/gpt-2-simple
 Grover: https://github.com/rowanz/grover
 TensorFlow version 1.x for GPT-2: https://www.tensorflow.org/install
+DCGAN: Use notebook from https://gsurma.medium.com/face-generator-generating-artificial-faces-with-machine-learning-9e8c3d6c1ead
 
 
 Various Python libraries (pip install xx if you don't have them installed on your machine prior to running code)
