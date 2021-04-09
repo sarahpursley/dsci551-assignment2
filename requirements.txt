@@ -1,0 +1,14 @@
+Required packages to install:
+
+Conda environment: https://docs.conda.io/en/latest/
+Docker: https://www.docker.com/
+Google Colab: https://colab.research.google.com/ (to run code using a GPU, make sure you have a Google account)
+
+Tika Python: https://github.com/chrismattmann/tika-python
+Tika Dockers: https://github.com/USCDataScience/tika-dockers
+GPT-2-simple: https://github.com/minimaxir/gpt-2-simple
+Grover: https://github.com/rowanz/grover
+TensorFlow version 1.x for GPT-2: https://www.tensorflow.org/install
+
+
+Various Python libraries (pip install xx if you don't have them installed on your machine prior to running code)
