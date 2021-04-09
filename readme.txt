@@ -9,7 +9,7 @@ Enron email corpus - it's okay if you don't have this, I will include replyEmail
 
 Order to run code in and outputs:
 
-1. step1_add_cols_ttr_pull_enron.py  -> fraudulent_emails_v2.json, fraudulent_emails_v2.tsv, replyEmails.json
+1. step1_add_cols_ttr_pull_enron.py  -> fraudulent_emails_v2.json, fraudulent_emails_v2.tsv, reply_emails.json
 2. Google colabs...
 ...
 3. step9_image_captions.sh -> img_captions.json
